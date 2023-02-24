@@ -5,12 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">  
 <style>  
 body{  
-  font-family: Calibri, Helvetica, sans-serif;  
-  background-color: black;  
+  font-family: Courier, Verdana, sans-serif;  
+  background-color: #5CB3FF;  
 }  
 .container {  
     padding: 50px;  
-  background-color: lightblue;  
+  background-color: #5CB3FF;  
 }  
   
 input[type=text], input[type=password], textarea {  
@@ -19,7 +19,7 @@ input[type=text], input[type=password], textarea {
   margin: 5px 0 22px 0;  
   display: inline-block;  
   border: none;  
-  background: #f1f1f1;  
+  background: #F0FFFF;  
 }  
 input[type=text]:focus, input[type=password]:focus {  
   background-color: orange;  
@@ -33,7 +33,7 @@ hr {
   margin-bottom: 25px;  
 }  
 .registerbtn {  
-  background-color: #4CAF50;  
+  background-color: #151B54;  
   color: white;  
   padding: 16px 20px;  
   margin: 8px 0;  
@@ -52,12 +52,12 @@ hr {
   <div class="container">  
   <center>  <h1> Student Registeration Form</h1> </center>  
   <hr>  
-  <label> Firstname </label>   
-<input type="text" name="firstname" placeholder= "Firstname" size="15" required />   
-<label> Middlename: </label>   
-<input type="text" name="middlename" placeholder="Middlename" size="15" required />   
-<label> Lastname: </label>    
-<input type="text" name="lastname" placeholder="Lastname" size="15"required />   
+  <label> First name </label>   
+<input type="text" name="firstname" placeholder= "First name" size="15" required />   
+<label> Middle name: </label>   
+<input type="text" name="middlename" placeholder="Middle name" size="15" required />   
+<label> Last name: </label>    
+<input type="text" name="lastname" placeholder="Last name" size="15" required />   
 <div>  
 <label>   
 Course :  
@@ -83,7 +83,7 @@ Gender :
 Phone :  
 </label>  
 <input type="text" name="country code" placeholder="Country Code"  value="+63" size="2"/>   
-<input type="text" name="phone" placeholder="phone no." size="10"/ required>   
+<input type="text" name="phone" placeholder="Phone no." size="10"/ required>   
 Current Address :  
 <textarea cols="80" rows="5" placeholder="Current Address" value="address" required>  
 </textarea>  
