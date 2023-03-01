@@ -1,0 +1,37 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Resume</h1>
+  <h2>Nathaniel Casicas</h2>
+  <hr />
+  <br>
+    <p class="head">Personal info</p>
+  <ul>
+    <li>Age: 19 years old</li>
+    <li>Address: Bayugo Jalajala Rizal</li>
+    <li>Birthday: Nov  23, 2003</li>
+  </ul>
+  <p class="head">Interests</p>
+  <ul>
+    <li>Drawing</li>
+    <li>Mobile Gaming</li>
+    <li>Design</li>
+    <li>Programming</li>
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Sleeping</li>
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+      <li>Laguna State Polytechnic University</li>
+      <li>Bayugo National High School</li>
+      <li>Lovebell Christian School</li>
+    </a>
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Good Communication skills</li>
+</div>
+ 
